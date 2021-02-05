@@ -1,0 +1,101 @@
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Data\DigimonList.bin
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Data\MapList.bin
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.exe.config
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Yggdrasil.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\MySql.Data.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Yggdrasil.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby.csprojAssemblyReference.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\winLOpt.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\App.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby.csproj.GenerateResource.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby.csproj.CoreCompileInputs.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby.csproj.CopyComplete
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.pdb
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Data\DigimonList.bin
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Data\MapList.bin
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Lobby Server.exe.config
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Lobby Server.exe
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Lobby Server.pdb
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Yggdrasil.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\MySql.Data.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Yggdrasil.pdb
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby.csprojAssemblyReference.cache
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\winLOpt.baml
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\App.g.cs
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby.csproj.GenerateResource.cache
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby.csproj.CopyComplete
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby Server.exe
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby Server.pdb
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\ControlzEx.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\MahApps.Metro.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\ControlzEx.pdb
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\ControlzEx.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\MahApps.Metro.pdb
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\MahApps.Metro.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby.csproj.CoreCompileInputs.cache
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Google.Protobuf.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Zstandard.Net.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\BouncyCastle.Crypto.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Ubiety.Dns.Core.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Renci.SshNet.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\System.Memory.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\System.Buffers.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\K4os.Compression.LZ4.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\K4os.Hash.xxHash.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\System.Numerics.Vectors.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Yggdrasil.dll.config
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\MySql.Data.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Google.Protobuf.pdb
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Google.Protobuf.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\Renci.SshNet.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\System.Memory.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\System.Buffers.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\K4os.Compression.LZ4.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\K4os.Hash.xxHash.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\System.Numerics.Vectors.xml
+F:\Private Server Project\Project ZERO\Lobby Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Private Server Project\Release GDMO\Lobby\Data\DigimonList.bin
+F:\Private Server Project\Release GDMO\Lobby\Data\MapList.bin
+F:\Private Server Project\Release GDMO\Lobby\Lobby Server.exe.config
+F:\Private Server Project\Release GDMO\Lobby\Lobby Server.exe
+F:\Private Server Project\Release GDMO\Lobby\Lobby Server.pdb
+D:\Private Server Project\Release GDMO\Lobby\Data\DigimonList.bin
+D:\Private Server Project\Release GDMO\Lobby\Data\MapList.bin
+D:\Private Server Project\Release GDMO\Lobby\Lobby Server.exe.config
+D:\Private Server Project\Release GDMO\Lobby\Lobby Server.exe
+D:\Private Server Project\Release GDMO\Lobby\Lobby Server.pdb
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\winLOpt.baml
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\App.g.cs
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby.csproj.GenerateResource.cache
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby.csproj.CopyComplete
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby Server.exe
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby Server.pdb
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby.csproj.CoreCompileInputs.cache
+D:\Private Server Project\Project ZERO\Lobby Server\obj\x86\Debug\Lobby.csprojAssemblyReference.cache

@@ -1,0 +1,66 @@
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\bin\Debug\CRCBreaker.exe
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\bin\Debug\CRCBreaker.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\CRCBreaker.csprojResolveAssemblyReference.cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\MainWindow.baml
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\MainWindow.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\App.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\CRCBreaker_MarkupCompile.cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\CRCBreaker.g.resources
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\CRCBreaker.Properties.Resources.resources
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.GenerateResource.Cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\CRCBreaker.exe
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\CRCBreaker\obj\x86\Debug\CRCBreaker.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\bin\Debug\CRCBreaker.exe
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\bin\Debug\CRCBreaker.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.csprojAssemblyReference.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\MainWindow.baml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\App.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker_MarkupCompile.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.g.resources
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.Properties.Resources.resources
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.GenerateResource.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.CoreCompileInputs.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.exe
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\bin\Debug\CRCBreaker.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\bin\Debug\CRCBreaker.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.csprojAssemblyReference.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\MainWindow.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\MainWindow.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\App.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker_MarkupCompile.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.g.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.Properties.Resources.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.GenerateResource.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.CoreCompileInputs.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\CRCBreaker\obj\x86\Debug\CRCBreaker.pdb
+F:\Private Server Project\Project ZERO\CRCBreaker\bin\Debug\CRCBreaker.exe
+F:\Private Server Project\Project ZERO\CRCBreaker\bin\Debug\CRCBreaker.pdb
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.csprojAssemblyReference.cache
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\MainWindow.baml
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\MainWindow.g.cs
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\App.g.cs
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker_MarkupCompile.cache
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.g.resources
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.Properties.Resources.resources
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.GenerateResource.cache
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.exe
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.pdb
+F:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.CoreCompileInputs.cache
+F:\Private Server Project\Project ZERO\CRCBreaker\bin\Debug\CRCBreaker.exe.config
+D:\Private Server Project\Project ZERO\CRCBreaker\bin\Debug\CRCBreaker.exe.config
+D:\Private Server Project\Project ZERO\CRCBreaker\bin\Debug\CRCBreaker.exe
+D:\Private Server Project\Project ZERO\CRCBreaker\bin\Debug\CRCBreaker.pdb
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.csprojAssemblyReference.cache
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\MainWindow.baml
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\MainWindow.g.cs
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\App.g.cs
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker_MarkupCompile.cache
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.g.resources
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.Properties.Resources.resources
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.GenerateResource.cache
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.exe
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.pdb
+D:\Private Server Project\Project ZERO\CRCBreaker\obj\x86\Debug\CRCBreaker.csproj.CoreCompileInputs.cache

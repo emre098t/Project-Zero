@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <AssemblyName>DiscordBOT</AssemblyName>
+        <RootNamespace>Template</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Discord.Addons.Hosting" Version="3.0.0" />
+      <PackageReference Include="Discord.Addons.Interactive" Version="2.0.0" />
+      <PackageReference Include="Discord.Net" Version="2.2.0" />
+      <PackageReference Include="Discord.Net.Commands" Version="2.2.0" />
+      <PackageReference Include="Discord.Net.Core" Version="2.2.0" />
+      <PackageReference Include="Discord.Net.WebSocket" Version="2.2.0" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.7" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.7" />
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.7" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.7" />
+      <PackageReference Include="MySql.Data" Version="8.0.22" />
+      <PackageReference Include="Victoria" Version="5.1.9" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DigitalWorld\Yggdrasil.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="appsettings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>

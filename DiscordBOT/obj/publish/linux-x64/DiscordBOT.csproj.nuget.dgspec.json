@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Private Server Project\\DiscordBot\\Template\\DiscordBOT.csproj": {}
+  },
+  "projects": {
+    "F:\\Private Server Project\\DiscordBot\\Template\\DiscordBOT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Private Server Project\\DiscordBot\\Template\\DiscordBOT.csproj",
+        "projectName": "DiscordBOT",
+        "projectPath": "F:\\Private Server Project\\DiscordBot\\Template\\DiscordBOT.csproj",
+        "packagesPath": "C:\\Users\\Lazarevic\\.nuget\\packages\\",
+        "outputPath": "F:\\Private Server Project\\DiscordBot\\Template\\obj\\publish\\linux-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lazarevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Discord.Addons.Hosting": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

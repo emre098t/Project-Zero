@@ -1,0 +1,86 @@
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\bin\Debug\Hypnos Server.exe
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\bin\Debug\Hypnos Server.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\Hypnos Server.csprojResolveAssemblyReference.cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\MainWindow.baml
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\MainWindow.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\App.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\Hypnos Server_MarkupCompile.cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\Hypnos Server.g.resources
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\Hypnos_Server.Properties.Resources.resources
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.GenerateResource.Cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\Hypnos Server.exe
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Hypnos Server\obj\x86\Debug\Hypnos Server.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\bin\Debug\Hypnos Server.exe
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\bin\Debug\Hypnos Server.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.csprojAssemblyReference.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\MainWindow.baml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\App.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server_MarkupCompile.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.g.resources
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos_Server.Properties.Resources.resources
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.GenerateResource.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.CoreCompileInputs.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.exe
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\bin\Debug\Hypnos Server.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\bin\Debug\Hypnos Server.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.csprojAssemblyReference.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\MainWindow.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\MainWindow.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\App.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server_MarkupCompile.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.g.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos_Server.Properties.Resources.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.GenerateResource.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.CoreCompileInputs.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Hypnos Server\obj\x86\Debug\Hypnos Server.pdb
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Hypnos Server.exe
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Hypnos Server.pdb
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.csprojAssemblyReference.cache
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\MainWindow.baml
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\MainWindow.g.cs
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\App.g.cs
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server_MarkupCompile.cache
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.g.resources
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos_Server.Properties.Resources.resources
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.GenerateResource.cache
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.exe
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.pdb
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Hypnos Server.exe.config
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\ControlzEx.dll
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\MahApps.Metro.dll
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\ControlzEx.pdb
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\ControlzEx.xml
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\MahApps.Metro.pdb
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\MahApps.Metro.xml
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.CopyComplete
+F:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.CoreCompileInputs.cache
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Hypnos Server.exe.config
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Hypnos Server.exe
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Hypnos Server.pdb
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\ControlzEx.dll
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\MahApps.Metro.dll
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\ControlzEx.pdb
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\ControlzEx.xml
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\MahApps.Metro.pdb
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\MahApps.Metro.xml
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Private Server Project\Project ZERO\Hypnos Server\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.csprojAssemblyReference.cache
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\MainWindow.baml
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\MainWindow.g.cs
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\App.g.cs
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server_MarkupCompile.cache
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.g.resources
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos_Server.Properties.Resources.resources
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.GenerateResource.cache
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.CopyComplete
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.exe
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.pdb
+D:\Private Server Project\Project ZERO\Hypnos Server\obj\x86\Debug\Hypnos Server.csproj.CoreCompileInputs.cache

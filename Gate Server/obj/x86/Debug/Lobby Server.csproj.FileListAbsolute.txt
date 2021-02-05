@@ -1,0 +1,124 @@
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Data\DigimonList.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Data\MapList.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.exe.config
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.exe
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.pdb
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Yggdrasil.dll
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\MySql.Data.dll
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Yggdrasil.pdb
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\winLOpt.baml
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\App.g.cs
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.exe
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Data\DigimonList.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Data\MapList.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.exe.config
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.exe
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Yggdrasil.dll
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\MySql.Data.dll
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Yggdrasil.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.csprojResolveAssemblyReference.cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\winLOpt.baml
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\App.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.csproj.GenerateResource.Cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.exe
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.pdb
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Data\DigimonList.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Data\MapList.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.exe.config
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.exe
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.pdb
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Yggdrasil.dll
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\MySql.Data.dll
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Yggdrasil.pdb
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.csprojResolveAssemblyReference.cache
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\winLOpt.baml
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\App.g.cs
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.csproj.GenerateResource.Cache
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.exe
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Data\DigimonList.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Data\MapList.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.exe.config
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.exe
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Lobby Server.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Yggdrasil.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\MySql.Data.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\bin\Debug\Yggdrasil.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.csprojResolveAssemblyReference.cache
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\winLOpt.baml
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\App.g.cs
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.csproj.GenerateResource.Cache
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.exe
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Lobby Server\obj\x86\Debug\Lobby Server.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.csprojAssemblyReference.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\winLOpt.baml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\App.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.csproj.GenerateResource.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.csproj.CoreCompileInputs.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.exe
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Data\DigimonList.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Data\MapList.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.exe.config
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.exe
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Yggdrasil.dll
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\MySql.Data.dll
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Yggdrasil.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.csproj.CopyComplete
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Data\DigimonList.bin
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Data\MapList.bin
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.exe.config
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Lobby Server.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Yggdrasil.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\MySql.Data.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\bin\Debug\Yggdrasil.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.csprojAssemblyReference.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\winLOpt.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\App.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server_MarkupCompile.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.g.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.csproj.GenerateResource.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.csproj.CoreCompileInputs.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.csproj.CopyComplete
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Lobby Server\obj\x86\Debug\Lobby Server.pdb

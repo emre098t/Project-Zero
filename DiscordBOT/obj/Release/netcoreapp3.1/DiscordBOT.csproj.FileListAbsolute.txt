@@ -1,0 +1,151 @@
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\DiscordBOT.exe
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\DiscordBOT.deps.json
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\DiscordBOT.runtimeconfig.json
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\DiscordBOT.runtimeconfig.dev.json
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\DiscordBOT.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\DiscordBOT.pdb
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Discord.Addons.Hosting.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Release\netcoreapp3.1\DiscordBOT.csprojAssemblyReference.cache
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Release\netcoreapp3.1\DiscordBOT.AssemblyInfoInputs.cache
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Release\netcoreapp3.1\DiscordBOT.AssemblyInfo.cs
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Release\netcoreapp3.1\DiscordBOT.csproj.CoreCompileInputs.cache
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Release\netcoreapp3.1\DiscordBOT.csproj.CopyComplete
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Release\netcoreapp3.1\DiscordBOT.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Release\netcoreapp3.1\DiscordBOT.pdb
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Release\netcoreapp3.1\DiscordBOT.genruntimeconfig.cache
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\DiscordBOT.exe
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\appsettings.json
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\DiscordBOT.deps.json
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\DiscordBOT.runtimeconfig.json
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\DiscordBOT.runtimeconfig.dev.json
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\DiscordBOT.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\DiscordBOT.pdb
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Discord.Addons.Hosting.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Discord.Addons.Interactive.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Discord.Net.Commands.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Discord.Net.Core.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Discord.Net.Rest.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Discord.Net.Webhook.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Discord.Net.WebSocket.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\MySql.Data.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Interactive.Async.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Linq.Async.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Victoria.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Yggdrasil.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Yggdrasil.pdb
+D:\Private Server Project\Project ZERO\DiscordBOT\bin\Release\netcoreapp3.1\Yggdrasil.dll.config
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Release\netcoreapp3.1\DiscordBOT.csprojAssemblyReference.cache
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Release\netcoreapp3.1\DiscordBOT.csproj.CoreCompileInputs.cache
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Release\netcoreapp3.1\DiscordBOT.AssemblyInfoInputs.cache
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Release\netcoreapp3.1\DiscordBOT.AssemblyInfo.cs
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Release\netcoreapp3.1\DiscordBOT.csproj.CopyComplete
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Release\netcoreapp3.1\DiscordBOT.dll
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Release\netcoreapp3.1\DiscordBOT.pdb
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Release\netcoreapp3.1\DiscordBOT.genruntimeconfig.cache

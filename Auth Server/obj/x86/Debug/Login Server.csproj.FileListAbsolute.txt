@@ -1,0 +1,51 @@
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\bin\Debug\Auth Server.exe.config
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\bin\Debug\Auth Server.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\bin\Debug\Auth Server.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\bin\Debug\Yggdrasil.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\bin\Debug\MySql.Data.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\bin\Debug\Yggdrasil.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Login Server.csprojAssemblyReference.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\DigitalWorldAuth.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\winAOpt.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\DigitalWorldAuth.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\winAOpt.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\App.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Auth Server_MarkupCompile.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Auth Server.g.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Login Server.csproj.GenerateResource.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Login Server.csproj.CoreCompileInputs.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Login Server.csproj.CopyComplete
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Auth Server.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Auth Server\obj\x86\Debug\Auth Server.pdb
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\Auth Server.exe.config
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\Auth Server.exe
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\Auth Server.pdb
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\Yggdrasil.dll
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\MySql.Data.dll
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\Yggdrasil.pdb
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Login Server.csprojAssemblyReference.cache
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\DigitalWorldAuth.baml
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\winAOpt.baml
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\DigitalWorldAuth.g.cs
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\winAOpt.g.cs
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\App.g.cs
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Auth Server_MarkupCompile.cache
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Auth Server.g.resources
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Login Server.csproj.GenerateResource.cache
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Login Server.csproj.CopyComplete
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Auth Server.exe
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Auth Server.pdb
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\App.baml
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Auth Server_MarkupCompile.lref
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\ControlzEx.dll
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\MahApps.Metro.dll
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\ControlzEx.pdb
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\ControlzEx.xml
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\MahApps.Metro.pdb
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\MahApps.Metro.xml
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Private Server Project\Project ZERO\Auth Server\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Private Server Project\Project ZERO\Auth Server\obj\x86\Debug\Login Server.csproj.CoreCompileInputs.cache

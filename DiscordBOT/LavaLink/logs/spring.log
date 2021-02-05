@@ -1,0 +1,4 @@
+2020-12-02 01:41:17.232  INFO 6132 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"708849979841577034","op":"stop"}
+2020-12-02 01:41:17.256  INFO 6132 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"708849979841577034","op":"destroy"}
+2020-12-02 01:41:17.331  INFO 6132 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:56225 -- CloseStatus[code=1000, reason=Requested.]
+2020-12-02 01:41:17.332  INFO 6132 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.

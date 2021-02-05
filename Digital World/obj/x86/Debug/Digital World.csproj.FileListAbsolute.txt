@@ -1,0 +1,265 @@
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonEvolve.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonList.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\ItemList.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapList.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapPortal.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MonsterList.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\Tactics.bin
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe.config
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.pdb
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.dll
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\MySql.Data.dll
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.pdb
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.baml
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.baml
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.cs
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.g.cs
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\App.g.cs
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.resources
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.exe
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.pdb
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonEvolve.bin
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonList.bin
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\ItemList.bin
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapList.bin
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapPortal.bin
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MonsterList.bin
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\Tactics.bin
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe.config
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.pdb
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.dll
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\MySql.Data.dll
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.pdb
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.baml
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.baml
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.cs
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.g.cs
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\App.g.cs
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.resources
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.exe
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonEvolve.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonList.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\ItemList.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapList.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapPortal.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MonsterList.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\Tactics.bin
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe.config
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.dll
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\MySql.Data.dll
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csprojResolveAssemblyReference.cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.baml
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.baml
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\App.g.cs
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.resources
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.Cache
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.exe
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.pdb
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonEvolve.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonList.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\ItemList.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapList.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapPortal.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MonsterList.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\Tactics.bin
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe.config
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.pdb
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.dll
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\MySql.Data.dll
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.pdb
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csprojResolveAssemblyReference.cache
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.baml
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.baml
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.cs
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.g.cs
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\App.g.cs
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.resources
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.Cache
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.exe
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonEvolve.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\DigimonList.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\ItemList.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapList.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MapPortal.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\MonsterList.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Data\Tactics.bin
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe.config
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.exe
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Digital World.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\MySql.Data.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\bin\Debug\Yggdrasil.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csprojResolveAssemblyReference.cache
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.baml
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.baml
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.cs
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\winDWOpt.g.cs
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\App.g.cs
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.g.resources
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.Cache
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.exe
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\Digital World\obj\x86\Debug\Digital World.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Data\DigimonEvolve.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Data\DigimonList.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Data\ItemList.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Data\MapList.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Data\MapPortal.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Data\MonsterList.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Data\Tactics.bin
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Digital World.exe.config
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Digital World.exe
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Digital World.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Yggdrasil.dll
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\MySql.Data.dll
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Yggdrasil.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.csprojAssemblyReference.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.baml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\winDWOpt.baml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\winDWOpt.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\App.g.cs
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.g.resources
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.csproj.CoreCompileInputs.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.csproj.CopyComplete
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.exe
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Digital World.exe.config
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Digital World.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Digital World.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Yggdrasil.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\MySql.Data.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\bin\Debug\Yggdrasil.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.csprojAssemblyReference.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\winDWOpt.baml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\winDWOpt.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\App.g.cs
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.g.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.csproj.CoreCompileInputs.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.csproj.CopyComplete
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.exe
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\Digital World\obj\x86\Debug\Digital World.pdb
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Digital World.exe.config
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Digital World.exe
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Digital World.pdb
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Yggdrasil.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\MySql.Data.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Yggdrasil.pdb
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.csprojAssemblyReference.cache
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.baml
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\winDWOpt.baml
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.g.cs
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\winDWOpt.g.cs
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\App.g.cs
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.g.resources
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.cache
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.CopyComplete
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.exe
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.pdb
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\ControlzEx.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\MahApps.Metro.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\ControlzEx.pdb
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\ControlzEx.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\MahApps.Metro.pdb
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\MahApps.Metro.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.CoreCompileInputs.cache
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Google.Protobuf.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Zstandard.Net.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\BouncyCastle.Crypto.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Ubiety.Dns.Core.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Renci.SshNet.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\System.Memory.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\System.Buffers.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\K4os.Compression.LZ4.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\K4os.Hash.xxHash.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\System.Numerics.Vectors.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Yggdrasil.dll.config
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\MySql.Data.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Google.Protobuf.pdb
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Google.Protobuf.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\Renci.SshNet.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\System.Memory.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\System.Buffers.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\K4os.Compression.LZ4.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\K4os.Hash.xxHash.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\System.Numerics.Vectors.xml
+F:\Private Server Project\Project ZERO\Digital World\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Private Server Project\Release GDMO\World\Digital World.exe.config
+F:\Private Server Project\Release GDMO\World\Digital World.exe
+F:\Private Server Project\Release GDMO\World\Digital World.pdb
+D:\Private Server Project\Release GDMO\World\Digital World.exe.config
+D:\Private Server Project\Release GDMO\World\Digital World.exe
+D:\Private Server Project\Release GDMO\World\Digital World.pdb
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.csprojAssemblyReference.cache
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\winDWOpt.baml
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.g.cs
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\winDWOpt.g.cs
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\App.g.cs
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.baml
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.g.resources
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.cache
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.CopyComplete
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.exe
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.pdb
+D:\Private Server Project\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.CoreCompileInputs.cache
+D:\Private Server Project\Debug\Release GDMO\World\Digital World.exe.config
+D:\Private Server Project\Debug\Release GDMO\World\Digital World.exe
+D:\Private Server Project\Debug\Release GDMO\World\Digital World.pdb
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.csprojAssemblyReference.cache
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.baml
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\winDWOpt.baml
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.g.cs
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\winDWOpt.g.cs
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\App.g.cs
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World_MarkupCompile.cache
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.g.resources
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital_World.Properties.Resources.resources
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.GenerateResource.cache
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.CoreCompileInputs.cache
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.csproj.CopyComplete
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.exe
+D:\Private Server Project\Debug\Project ZERO\Digital World\obj\x86\Debug\Digital World.pdb
+D:\Private Server Project\Debug\Project ZERO\Release\World\Digital World.exe.config
+D:\Private Server Project\Debug\Project ZERO\Release\World\Digital World.exe
+D:\Private Server Project\Debug\Project ZERO\Release\World\Digital World.pdb

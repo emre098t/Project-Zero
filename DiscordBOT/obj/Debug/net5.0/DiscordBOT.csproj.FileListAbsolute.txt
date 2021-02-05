@@ -1,0 +1,153 @@
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\DiscordBOT.exe
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\appsettings.json
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\DiscordBOT.deps.json
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\DiscordBOT.runtimeconfig.json
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\DiscordBOT.runtimeconfig.dev.json
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\DiscordBOT.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\ref\DiscordBOT.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\DiscordBOT.pdb
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Discord.Addons.Hosting.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Discord.Net.Commands.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Discord.Net.Core.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Discord.Net.Rest.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Discord.Net.Webhook.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Linq.Async.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.csprojAssemblyReference.cache
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.AssemblyInfoInputs.cache
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.AssemblyInfo.cs
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.csproj.CoreCompileInputs.cache
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.csproj.CopyComplete
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\ref\DiscordBOT.dll
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.pdb
+C:\Users\Lazarevic\Desktop\dnbds-e5\Template\obj\Debug\net5.0\DiscordBOT.genruntimeconfig.cache
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\DiscordBOT.exe
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\appsettings.json
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\DiscordBOT.deps.json
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\DiscordBOT.runtimeconfig.json
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\DiscordBOT.runtimeconfig.dev.json
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\DiscordBOT.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\ref\DiscordBOT.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\DiscordBOT.pdb
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Discord.Addons.Hosting.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Discord.Net.Commands.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Discord.Net.Core.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Discord.Net.Rest.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Discord.Net.Webhook.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Google.Protobuf.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\MySql.Data.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Zstandard.Net.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\Renci.SshNet.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Interactive.Async.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Linq.Async.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Private Server Project\DiscordBot\Template\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.csprojAssemblyReference.cache
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.AssemblyInfoInputs.cache
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.AssemblyInfo.cs
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.csproj.CoreCompileInputs.cache
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.csproj.CopyComplete
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.dll
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\ref\DiscordBOT.dll
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.pdb
+F:\Private Server Project\DiscordBot\Template\obj\Debug\net5.0\DiscordBOT.genruntimeconfig.cache
+D:\Private Server Project\Project ZERO\DiscordBOT\obj\Debug\net5.0\DiscordBOT.pdb

@@ -1,0 +1,113 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Private Server Project\\Project ZERO\\DiscordBOT\\DiscordBOT.csproj",
+    "projectName": "DiscordBOT",
+    "projectPath": "D:\\Private Server Project\\Project ZERO\\DiscordBOT\\DiscordBOT.csproj",
+    "outputPath": "D:\\Private Server Project\\Project ZERO\\DiscordBOT\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "D:\\Private Server Project\\Project ZERO\\DigitalWorld\\Yggdrasil.csproj": {
+            "projectPath": "D:\\Private Server Project\\Project ZERO\\DigitalWorld\\Yggdrasil.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Discord.Addons.Hosting": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "Discord.Addons.Interactive": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Discord.Net": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Discord.Net.Commands": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Discord.Net.Core": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Discord.Net.WebSocket": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Configuration": {
+          "target": "Package",
+          "version": "[3.1.7, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[3.1.7, )"
+        },
+        "Microsoft.Extensions.Hosting": {
+          "target": "Package",
+          "version": "[3.1.7, )"
+        },
+        "Microsoft.Extensions.Logging": {
+          "target": "Package",
+          "version": "[3.1.7, )"
+        },
+        "MySql.Data": {
+          "target": "Package",
+          "version": "[8.0.22, )"
+        },
+        "Victoria": {
+          "target": "Package",
+          "version": "[5.1.9, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "downloadDependencies": [
+        {
+          "name": "Microsoft.AspNetCore.App.Ref",
+          "version": "[3.1.8, 3.1.8]"
+        },
+        {
+          "name": "Microsoft.NETCore.App.Host.win-x64",
+          "version": "[3.1.9, 3.1.9]"
+        }
+      ],
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

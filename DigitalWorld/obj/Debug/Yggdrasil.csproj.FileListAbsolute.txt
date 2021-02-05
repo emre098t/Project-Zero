@@ -1,0 +1,161 @@
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.pdb
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\MySql.Data.dll
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.dll
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.pdb
+C:\Users\Miguel\Desktop\DMO\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.pdb
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\MySql.Data.dll
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.dll
+C:\Users\Miguel\Desktop\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\MySql.Data.dll
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.dll
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.pdb
+G:\BOTS && DMO\Server\dmoserver\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.csprojResolveAssemblyReference.cache
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.pdb
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\MySql.Data.dll
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.dll
+G:\BOTS && DMO\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\MySql.Data.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\obj\Debug\Yggdrasil.pdb
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\lua51.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\LuaInterface.dll
+G:\Private Server\Server\dmoserver\UPDATES\Comfy-Mittens-Digital-World-dae79b3\Comfy-Mittens-Digital-World-dae79b3\DigitalWorld\bin\Debug\LuaInterface.xml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\Yggdrasil.dll
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\Yggdrasil.pdb
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\LuaInterface.xml
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.csprojAssemblyReference.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.csproj.CoreCompileInputs.cache
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.csproj.CopyComplete
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.dll
+C:\Users\Lazarevic\Downloads\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\Yggdrasil.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\Yggdrasil.pdb
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\bin\Debug\LuaInterface.xml
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.csprojAssemblyReference.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.csproj.CoreCompileInputs.cache
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.csproj.CopyComplete
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.dll
+F:\TEst\DMOPrivateServerFilesProjectPrebuilt\Updated_VER155\DigitalWorld\obj\Debug\Yggdrasil.pdb
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.pdb
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+F:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csproj.CopyComplete
+F:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.pdb
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csproj.CoreCompileInputs.cache
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.config
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\BouncyCastle.Crypto.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Google.Protobuf.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Hash.xxHash.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\MySql.Data.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Renci.SshNet.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Buffers.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Memory.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Numerics.Vectors.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Ubiety.Dns.Core.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Zstandard.Net.dll
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Google.Protobuf.pdb
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Google.Protobuf.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Hash.xxHash.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\MySql.Data.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Renci.SshNet.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Buffers.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Memory.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Numerics.Vectors.xml
+F:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.config
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.pdb
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\BouncyCastle.Crypto.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Google.Protobuf.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Hash.xxHash.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\MySql.Data.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Renci.SshNet.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Buffers.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Memory.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Numerics.Vectors.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Ubiety.Dns.Core.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Zstandard.Net.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Google.Protobuf.pdb
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Google.Protobuf.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\K4os.Hash.xxHash.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\MySql.Data.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Renci.SshNet.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Buffers.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Memory.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Numerics.Vectors.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csprojAssemblyReference.cache
+D:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csproj.CopyComplete
+D:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.dll
+D:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.pdb
+D:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csproj.CoreCompileInputs.cache
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+D:\Private Server Project\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+F:\Private Server Project\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csprojAssemblyReference.cache
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.config
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.pdb
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.CodeAnalysisLog.xml
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Yggdrasil.dll.lastcodeanalysissucceeded
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\MySql.Data.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\System.Buffers.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\System.Memory.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\System.Numerics.Vectors.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Ubiety.Dns.Core.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Zstandard.Net.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Google.Protobuf.pdb
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Google.Protobuf.xml
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.xml
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\K4os.Hash.xxHash.xml
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\MySql.Data.xml
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\bin\Debug\Renci.SshNet.xml
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csprojAssemblyReference.cache
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csproj.CoreCompileInputs.cache
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.csproj.CopyComplete
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.dll
+D:\Private Server Project\Debug\Project ZERO\DigitalWorld\obj\Debug\Yggdrasil.pdb

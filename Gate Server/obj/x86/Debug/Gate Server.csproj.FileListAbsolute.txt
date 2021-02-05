@@ -1,0 +1,23 @@
+D:\Private Server Project\Debug\Release GDMO\Lobby\Lobby Server.exe.config
+D:\Private Server Project\Debug\Release GDMO\Lobby\Lobby Server.exe
+D:\Private Server Project\Debug\Release GDMO\Lobby\Lobby Server.pdb
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Gate Server.csprojAssemblyReference.cache
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\DigitalWorldLobby.baml
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\winLOpt.baml
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\DigitalWorldLobby.g.cs
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\winLOpt.g.cs
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\App.g.cs
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Digital_World.Properties.Resources.resources
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Gate Server.csproj.GenerateResource.cache
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Gate Server.csproj.CoreCompileInputs.cache
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Gate Server.csproj.CopyComplete
+D:\Private Server Project\Debug\Release GDMO\Gate\Gate Server.exe.config
+D:\Private Server Project\Debug\Release GDMO\Gate\Gate Server.exe
+D:\Private Server Project\Debug\Release GDMO\Gate\Gate Server.pdb
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Gate Server_MarkupCompile.cache
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Gate Server.g.resources
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Gate Server.exe
+D:\Private Server Project\Debug\Project ZERO\Lobby Server\obj\x86\Debug\Gate Server.pdb
+D:\Private Server Project\Debug\Project ZERO\Release\Gate\Gate Server.exe.config
+D:\Private Server Project\Debug\Project ZERO\Release\Gate\Gate Server.exe
+D:\Private Server Project\Debug\Project ZERO\Release\Gate\Gate Server.pdb
